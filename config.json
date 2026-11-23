@@ -1,0 +1,19 @@
+{
+  "ASSETS_BASEURL": "/assets/",
+  "SONGS_BASEURL": "/songs/",
+  "EMAIL": null,
+  "ACCOUNTS": true,
+  "CUSTOM_JS": "",
+  "PLUGINS": [],
+  "PREVIEW_TYPE": "mp3",
+  "SECRET_KEY": "CHANGE-THIS-SECRET-KEY",
+  "URL": "https://github.com/bui/taiko-web/",
+  "GOOGLE_CREDENTIALS": {
+    "gdrive_enabled": false,
+    "api_key": "",
+    "oauth_client_id": "",
+    "project_number": "",
+    "min_level": null
+  },
+  "UPLOAD_PANEL_PASSWORD": "CHANGE-THIS-PASSWORD"
+}
